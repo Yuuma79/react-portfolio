@@ -11,7 +11,7 @@ const introdata = {
         second: "I create Branding Identity",
         third: "I do UX Design",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "A designer that's all about solving problems and making sure products are accessible to everyone.",
     your_img_url: "https://images.unsplash.com/photo-1626785774573-4b799315345d",
 };
 

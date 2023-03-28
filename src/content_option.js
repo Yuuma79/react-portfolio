@@ -74,71 +74,71 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://picsum.photos/id/464/3198/2230",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Fashion magazine layout for powerful females.",
         link: "#",
     },
     {
         img: "https://picsum.photos/id/490/5000/3306",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Branding identity logo for mobile app.",
         link: "#",
     },
     {
         img: "https://picsum.photos/id/526/4000/3000",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Book cover for designers.",
         link: "#",
     },
     {
         img: "https://picsum.photos/id/528/4000/3000",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Food branding identity for high-end recipies with simple recipies.",
         link: "#",
     },
     {
         img: "https://picsum.photos/id/20/367/267",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Branding identity for vinyl record store.",
         link: "#",
     },
     {
         img: "https://picsum.photos/id/39/3456/2304",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Website design for people wanting to travel beautiful places without tourists.",
         link: "#",
     },
 
     {
         img: "https://picsum.photos/id/102/4320/3240",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Branding identity for college campus merch.",
         link: "#",
     },
     {
         img: "https://picsum.photos/id/111/4400/2656",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Website design for a farm that wants to sell organic raspberries.",
         link: "#",
     },
     {
         img: "https://picsum.photos/id/119/3264/2176",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Design poster to remember famous retro gutarists.",
         link: "#",
     },
     {
         img: "https://picsum.photos/id/116/3504/2336",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Branding identity to sell organic and eco-friendly coasters.",
         link: "#",
     },
     {
         img: "https://picsum.photos/id/145/4288/2848",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Mobile design app for people looking to buy retro cars.",
         link: "#",
     },
     {
         img: "https://picsum.photos/id/163/2000/1333",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Website design for tourists that wants to find good local resturants in Vietnam.",
         link: "#",
     },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "cellendao@gmail.com",
+    YOUR_FONE: "(203)526-6626",
+    description: "Lets work together! For any questions make sure to enter your information in the section. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",

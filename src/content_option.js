@@ -1,4 +1,4 @@
-const logotext = "JOHN";
+const logotext = "CHRISTINA";
 const meta = {
     title: "Christina Dao",
     description: "I’m Christina Dao a designer interested in UX, graphic design, and branding identity.",
